@@ -11,7 +11,7 @@ Add the following to the main composer.json
     }
 ],
 "require": [
-    "louisitvn/log-viewer": "master",
+    "snaptecltd/log-viewer": "master",
 ]
 
 ```
